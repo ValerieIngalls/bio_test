@@ -4,3 +4,5 @@
 
 - Camp Grenada 
 - Idk the rest
+
+This is a merge conflict example
